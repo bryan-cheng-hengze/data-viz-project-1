@@ -8,7 +8,7 @@ const url = "https://public.tableau.com/views/Project1_16295859149500/Suiciderat
 const vizContainer = document.getElementById('vizContainer');
 const options = {
     hideTabs: true,
-    height: 1000,
+    height: 2827,
     width: 1200,
     onFirstInteraction: function() {
         workbook = viz.getWorkbook();
